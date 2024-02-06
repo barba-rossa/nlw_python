@@ -10,6 +10,6 @@ repos:
           [
             "-rn", # Only display messages
             "-sn", # Don't display the score
-            "--rcfile=pylintrc", # Link to config file
+            "--rcfile=.pylintrc", # Link to config file
             "--load-pluguins=pylint.extensions.docparams", # Load an extension
           ]        

@@ -1,8 +1,4 @@
-def helloWorld():
+def helloworld():
     print("Hello World")
 
-helloWorld()
-
-
-
-
+helloworld()
